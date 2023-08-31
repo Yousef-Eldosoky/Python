@@ -1,1 +1,0 @@
-{'red': ['apples', 'strawberries'], 'round': ['apples', 'oranges'], 'tart': ['apples'], 'yellow': ['bananas'], 'long': ['bananas'], 'sweet': ['bananas', 'oranges', 'grapes', 'strawberries', 'watermelon'], 'orange': ['oranges'], 'green': ['grapes', 'watermelon'], 'small': ['grapes', 'strawberries'], 'large': ['watermelon']}
