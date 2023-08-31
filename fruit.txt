@@ -1,0 +1,6 @@
+{"apples": ["red", "round", "tart"], 
+ "bananas": ["yellow", "long", "sweet"], 
+ "oranges": ["orange", "round", "sweet"], 
+ "grapes": ["green", "small", "sweet"], 
+ "strawberries": ["red", "small", "sweet"], 
+ "watermelon": ["green", "large", "sweet"]}
